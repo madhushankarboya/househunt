@@ -41,11 +41,10 @@ househunt/
 └── backend/      # Node/Express API server
 | Name           | Role(s)                                                               |
 | -------------- | --------------------------------------------------------------------- |
-| **Bhoja Raju** | Frontend Developer, Backend Developer, Team Lead, Project Coordinator |
-| Pavani         | Frontend Developer                                                    |
-| Padma Sree     | Frontend Developer                                                    |
-| Raju           | Backend Developer                                                     |
-| Yugi           | Backend Developer                                                     |
+| **sirisha**    | Backend Developer, Team Lead |
+|   Dhanushma    | Frontend Developer                                                    |
+| Nishitha yadav | Frontend Developer                                                    |
+| Madhu shankar  | Backend Developer                                                     |
 
 Run the application
 # Start the backend
